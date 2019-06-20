@@ -1,6 +1,6 @@
 # SSL Settings
-url: https://www.davidbeesley.co.uk
-enforce_ssl: www.davidbeesley.co.uk
+url: https://davidbeesley.co.uk
+enforce_ssl: davidbeesley.co.uk
 
 # Site settings
 title: David Beesley - Netlify
