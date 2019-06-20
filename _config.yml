@@ -1,0 +1,26 @@
+# SSL Settings
+url: https://www.davidbeesley.co.uk
+enforce_ssl: www.davidbeesley.co.uk
+
+# Site settings
+title: David Beesley
+email: hello@davidbeesley.co.uk
+description: > #
+  David Beesley is a Freelance Web Developer based in Cheltenham, England
+baseurl: ""
+url: "http://davidbeesley.co.uk"
+twitter_username: davebeesley
+github_username:  davebeesley
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+encoding: utf-8
+permalink: /blog/:year/:month/:title
+paginate: 5
+sass:
+    style: compressed
+
+gems:
+  - jekyll-sitemap
+  - jekyll-paginate
