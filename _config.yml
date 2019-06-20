@@ -18,6 +18,7 @@ highlighter: rouge
 encoding: utf-8
 permalink: /blog/:year/:month/:title
 paginate: 5
+include: [_redirects]
 sass:
     style: compressed
 
