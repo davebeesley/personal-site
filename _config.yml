@@ -8,7 +8,7 @@ email: hello@davidbeesley.co.uk
 description: > #
   David Beesley is a Freelance Web Developer based in Cheltenham, England
 baseurl: ""
-url: "http://davidbeesley.co.uk"
+url: "https://davidbeesley.co.uk"
 twitter_username: davebeesley
 github_username:  davebeesley
 
@@ -18,7 +18,7 @@ highlighter: rouge
 encoding: utf-8
 permalink: /blog/:year/:month/:title
 paginate: 5
-include: _redirects
+include: ['_redirects']
 sass:
     style: compressed
 
