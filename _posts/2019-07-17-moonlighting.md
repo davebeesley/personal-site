@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Moonlighting
-date: 2019-03-23T11:17:00.000Z
+date: 2019-07-17T13:00:00.000Z
 categories: moonlighting web development html css javascript 11ty static site
 excerpt: Not the Cybill Shepherd & Bruce Willis kind
 ---
