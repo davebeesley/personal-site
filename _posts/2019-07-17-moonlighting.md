@@ -7,7 +7,7 @@ excerpt: Not the Cybill Shepherd & Bruce Willis kind
 ---
 
 So,
-Having been turned 18 this side of the year 2000 (just), I suppose I classify as a Millennial even at the ripe old age of 36. Because of this, I find myself in the classic Millennial position of having a large enough amount of savings to not be fretting if the car breaks down, but nowhere near enough to buy myself a house. Also being a Millennial this is probably due to eating too much avocado toast or £20 bowls of cereal<sup>\*</sup>
+Having turned 18 this side of the year 2000 (just), I suppose I classify as a Millennial even at the ripe old age of 36. Because of this, I find myself in the classic Millennial position of having a large enough amount of savings to not be fretting if the car breaks down, but nowhere near enough to buy myself a house. Also being a Millennial this is probably due to eating too much avocado toast or £20 bowls of cereal<sup>\*</sup>
 
 Since taking the decision to move back onto a steady wage this time last year, and giving up the freelance lyfe<sup>tm</sup>, I have found it very hard to save towards a home. Most of my money is gobbled up in rent, bills, and maintaining things like cars and children (I have one child).
 
