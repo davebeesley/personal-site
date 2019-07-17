@@ -7,7 +7,7 @@ weight: 4
 
 ## Profile
 
-I have over 9 years industry experience as a Front End Web Developer, focusing on mobile first responsive websites builds using HTML, CSS and JavaScript in PHP & .Net environments. I also bring to your organisation 3 years’ experience in 1st, 2nd and 3rd Line IT Support within educational establishments and excellent customer service focus from over 6 years in retail and catering positions. In my time in my most recent role, I have been responsible for taking a design from Photoshop comps or wireframes to CMS templates or full CMS driven websites. I am currently focusing my out of work study on enhancing my knowledge of JavaScript, particularly the React Library.
+I have over 9 years industry experience as a Front End Web Developer, focusing on mobile first responsive websites builds using HTML, CSS and JavaScript in PHP & .Net environments. I also bring to your organisation 3 years’ experience in 1st, 2nd and 3rd Line IT Support within educational establishments and excellent customer service focus from over 6 years in retail and catering positions. In my time in my most recent role, I have developed websites and applications in a variety of frameworks (Laravel/React/Vue) and vanilla PHP and JavaScript.
 
 ## Key Skills
 
@@ -117,7 +117,7 @@ _CSS3 for Resposive Design_ – Andrew Clarke – Cardiff, Nov 2013 - http://stu
 
 _Mobilism_, Amsterdam, May 2012 - http://mobilism.nl/2012
 
-_WebDevConf_, Bristol, Oct 2012-2015 - http://www.webdevconf.com
+_WebDevConf_, Bristol, Oct 2012-2018 - http://www.webdevconf.com
 
 _Port80_, Newport, May 2016 - http://port80events.co.uk/
 
@@ -146,6 +146,6 @@ Running - Completed the Great North Run in 2013
 
 Microbrewing - A friend and I brew cider every autumn using our cider press
 
-Football – I enjoy playing 5-a-side, watching Cheltenham Town and Liverpool
+Football – Watching Cheltenham Town (where I am also on the Board of Directors) and Liverpool
 
 #### References available on request
