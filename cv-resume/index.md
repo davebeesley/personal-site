@@ -11,10 +11,10 @@ I have over 9 years industry experience as a Front End Web Developer, focusing o
 
 ## Key Skills
 
+-   JavaScript (Vanilla ES6, React, Vue)
 -   HTML
--   CSS (Sass)
--   JavaScript (Vue, React, Gulp, jQuery)
--   PHP (Laravel)
+-   CSS
+-   Sass
 -   W3C Compliance
 -   Cross Browser Compatibility
 -   CMS Systems – Wordpress, Processwire, Umbraco, Perch
@@ -34,6 +34,10 @@ I have over 9 years industry experience as a Front End Web Developer, focusing o
 Element Studio, Cheltenham
 
 July 2018 - Present
+
+-   Maintaining a multitude of projects including the largest Independent Pharmacy website in the UK (Laravel/Codeignitor/React)
+-   Building a React/Redux based visualisation tool for the Paris Climate Accords
+-   Multiple GatsbyJS based brochure sites
 
 ### Freelance Web Developer
 
@@ -109,19 +113,23 @@ Pre 2006 – Various Customer Service roles
 
 ### Courses
 
+_Building JavaScript Applications with ReactJS_ – Jack Franklin - London, June 2016 - https://www.whiteoctoberevents.co.uk/training/a-deep-dive-into-react-for-beginners
+
 _CreativeJS with HTML5 (2D)_ – Seb Lee-Delisle – Oxford, Jan 2013 - http://seb.ly/training
 
 _CSS3 for Resposive Design_ – Andrew Clarke – Cardiff, Nov 2013 - http://stuffandnonsense.co.uk
 
 ### Conferences
 
-_Mobilism_, Amsterdam, May 2012 - http://mobilism.nl/2012
+_FFConf_, Brighton, Nov 2019 - https://2019.ffconf.org
 
 _WebDevConf_, Bristol, Oct 2012-2018 - http://www.webdevconf.com
 
 _Port80_, Newport, May 2016 - http://port80events.co.uk/
 
 _Handheld_, Cardiff, Nov 2013 - http://handheldconf.com
+
+_Mobilism_, Amsterdam, May 2012 - http://mobilism.nl/2012
 
 ## Education
 
@@ -142,10 +150,8 @@ A Level - Mathematics, Computing & General Studies
 
 Web Development
 
-Running - Completed the Great North Run in 2013
-
-Microbrewing - A friend and I brew cider every autumn using our cider press
-
 Football – Watching Cheltenham Town (where I am also on the Board of Directors) and Liverpool
+
+Politics - Local activist and campaigner for the Labour Party
 
 #### References available on request
