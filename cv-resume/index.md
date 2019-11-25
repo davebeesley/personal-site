@@ -119,11 +119,15 @@ _CreativeJS with HTML5 (2D)_ – Seb Lee-Delisle – Oxford, Jan 2013 - http://s
 
 _CSS3 for Resposive Design_ – Andrew Clarke – Cardiff, Nov 2013 - http://stuffandnonsense.co.uk
 
-### Conferences
+### Conferences attended
 
 _FFConf_, Brighton, Nov 2019 - https://2019.ffconf.org
 
+_WordCamp_, Bristol, May 2019 - https://2019.bristol.wordcamp.org/
+
 _WebDevConf_, Bristol, Oct 2012-2018 - http://www.webdevconf.com
+
+_WordCamp_, London, April 2018 - https://2018.london.wordcamp.org/
 
 _Port80_, Newport, May 2016 - http://port80events.co.uk/
 
