@@ -64,4 +64,8 @@
 			text-align: left;
 		}
 	}
+	
+	@media print {
+		display: none;
+	}
 }
