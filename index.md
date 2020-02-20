@@ -5,8 +5,6 @@ description: David Beesley is a Web Developer based in Cheltenham, England
 canonical: https://davidbeesley.co.uk/
 ---
 
-# David Beesley
-
 Hi, thanks for stopping by. As you can see, I have taken the bold step of rebuilding my site in the wild!
 
 This is just a static holding page for now, and intentionally unstyled to be as accessible as possible, just plain old html
@@ -34,3 +32,5 @@ Want to see the code and commits? Head on over to [github.com/davebeesley/person
   publish = "_site"
   command = "eleventy"
 ```
+
+**Update (20/02/2020 22:05 GMT/UTC):** Couldn't resist adding a header and footer
