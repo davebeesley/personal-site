@@ -25,4 +25,12 @@ Want to see the code and commits? Head on over to [github.com/davebeesley/person
 
 **Start (20/02/2020 20:45 GMT/UTC):** Started building out new site with a static html file
 
-**Update (20/02/2020 21:25 GMT/UTC):** I have rebuilt the homepage as a [markdown](https://www.markdownguide.org/) file with the requisit [front matter](https://www.11ty.dev/docs/data-frontmatter/), separated the markup into a [layout](https://www.11ty.dev/docs/layouts/), and built using [11ty](https://www.11ty.dev/) - I have also configured [Netlify](https://www.netlify.com/) to build the site with [11ty](https://www.11ty.dev/) from the [master branch](https://github.com/davebeesley/personal-site) and serve from the compiled `_site` directory.
+**Update (20/02/2020 21:45 GMT/UTC):** I have rebuilt the homepage as a [markdown](https://www.markdownguide.org/) file with the requisit [front matter](https://www.11ty.dev/docs/data-frontmatter/), separated the markup into a [layout](https://www.11ty.dev/docs/layouts/), and built using [11ty](https://www.11ty.dev/)
+
+**Update (20/02/2020 21:50 GMT/UTC):** In order to allow the site to build on [Netlify](https://www.netlify.com/), I needed to add a `package.json` using the command `npm init`. Then added netlify as a dev dependency using the command `npm install --save-dev @11ty/eleventy` - I have also configured [Netlify](https://www.netlify.com/) to build the site with [11ty](https://www.11ty.dev/) from the [master branch](https://github.com/davebeesley/personal-site) and serve from the compiled `_site` directory using the following code in `netlify.toml` saved at the root of the site
+
+```toml
+[build]
+  publish = "_site"
+  command = "eleventy"
+```
