@@ -34,3 +34,5 @@ Want to see the code and commits? Head on over to [github.com/davebeesley/person
 ```
 
 **Update (20/02/2020 22:05 GMT/UTC):** Couldn't resist adding a header and footer
+
+**Update (08/04/2020 17:05 GMT/UTC):** Due to being made redundant, and needing a working website for job hunting. This project has been moved onto the `beta.` subdomain. My legacy iteration of the website has been restored in the short term
