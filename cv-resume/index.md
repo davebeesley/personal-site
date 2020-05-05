@@ -29,11 +29,19 @@ I have over 10 years industry experience as a Front End Web Developer, focusing 
 
 ## Experience
 
+### Web Developer
+
+Sports Interactive, London
+
+May 2020 - Present
+
+-   Maintaining a multitude of projects both internal and customer facing
+
 ### Full Stack Web Developer
 
 Element Studio, Cheltenham
 
-July 2018 - Present
+July 2018 - April 2020
 
 -   Maintaining a multitude of projects including the largest Independent Pharmacy website in the UK (Laravel/Codeignitor/React)
 -   Building a React/Redux based visualisation tool for the Paris Climate Accords
